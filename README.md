@@ -2,7 +2,7 @@
 
 - A 15 y. o. boy from China.  
 - zh-CN / en-US
-- A student that ready to graduate from junior middle school.  
+- A high school student.  
 - A programming and science hobbyist.  
 - **Improving myself**.
 
