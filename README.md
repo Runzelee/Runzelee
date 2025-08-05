@@ -2,16 +2,8 @@
 
 - A 18 y. o. boy from China.  
 - zh-CN / en-US
-- A high school student.  
 - A programming and science hobbyist.  
 - **Improving myself**.
-
-## Languages I'm learning:
-
-- Kotlin
-- JavaScript
-- Java
-- Python
 
 
 <!--等star多点再把stats显示出来，现在没脸见人-->
