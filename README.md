@@ -1,6 +1,6 @@
 # Hi there!🎉
 
-- A 18 y. o. boy from China.  
+- A 19 y. o. boy from China.  
 - zh-CN / en-US
 - A programming and science hobbyist.  
 - **Improving myself**.
